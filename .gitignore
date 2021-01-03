@@ -5,6 +5,7 @@
 ### react ###
 .DS_*
 *.log
+package-lock.json
 logs
 **/*.backup.*
 **/*.back.*
